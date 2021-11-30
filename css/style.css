@@ -306,9 +306,11 @@ header {
 }
 
 .underline {
-  width: 150px;
-  border: 2px solid #ee8683;
-  margin: auto;
+  height: 2px;
+  width: 40px;
+  margin: 15px auto;
+  background: #e65f78;
+  transition: 0.5s all;
 }
 
 .fromLeft {
