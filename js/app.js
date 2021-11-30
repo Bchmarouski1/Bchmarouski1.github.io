@@ -89,7 +89,7 @@ var filterizd = $('.filter-container').filterizr({
 
 
   var typed = new Typed(".element", {
-  strings: ["Bernice Chmarouski", "a Developer","a Designer","a Photographer"],
+  strings: ["John Doe", "a Developer","a Designer","a Businessman"],
   smartBackspace: true,
    typeSpeed: 100,
    backSpeed: 100,
@@ -105,5 +105,3 @@ $('a').smoothScroll({
 });
 
 });
-
- 
